@@ -1,8 +1,8 @@
 ---
 title: "[Deep Learning]Batch Normalization"
 category:
-    -AI
+    - AI
 tag:
-    -AI
+    - AI, Batch Normalization
 ---
 
