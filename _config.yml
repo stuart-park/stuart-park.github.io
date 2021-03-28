@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Stuart Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Hello World"
   location         : "Seoul, South Korea"
   email            :
